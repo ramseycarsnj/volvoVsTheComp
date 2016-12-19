@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482177199553">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482179783125">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="xc60mobile.css" crc="340408248" ref="xc60mobile"/>
-    <file name="index.css" crc="139867409" ref="index"/>
-    <file name="s60.css" crc="47671701" ref="s60"/>
+    <file name="index.css" crc="3777003259" ref="index"/>
+    <file name="s60.css" crc="516033666" ref="s60"/>
     <file name="xc90mobile.css" crc="251534811" ref="xc90mobile"/>
     <file name="s60mobile.css" crc="353876998" ref="s60mobile"/>
-    <file name="xc60.css" crc="3909607559" ref="xc60"/>
+    <file name="xc60.css" crc="207471209" ref="xc60"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
@@ -23,10 +23,10 @@
   </folder>
   <folder name="images">
     <file name="xc90headerimage.jpg" crc="4230006063" ref="index"/>
-    <file name="q7main.jpg" crc="4032103150" ref="index"/>
-    <file name="mdxmain.jpg" crc="3770537964" ref="index"/>
-    <file name="rangerovermain.jpg" crc="4033080403" ref="index"/>
-    <file name="qx60main.jpg" crc="110106916" ref="index"/>
+    <file name="qz.jpg" crc="3923980545" ref="index"/>
+    <file name="mdx.jpg" crc="163466516" ref="index"/>
+    <file name="rrs.jpg" crc="315843660" ref="index"/>
+    <file name="qx60.jpg" crc="4162473718" ref="index"/>
     <file name="xc90bg.jpg" crc="4242480601" ref="index"/>
     <file name="u1002-6.png" crc="114257827" ref="index"/>
     <file name="u1059-4.png" crc="4194320703" ref="index"/>
@@ -69,9 +69,9 @@
     <file name="monotone_arrow_next_right-u1900.png" crc="3825301338" ref="xc90mobile"/>
     <file name="monotone_arrow_next_right-u1900-r.png" crc="3825301338" ref="xc90mobile"/>
     <file name="s60main.jpg" crc="3960026768" ref="s60"/>
-    <file name="a4main.jpg" crc="4075655905" ref="s60"/>
-    <file name="a3main.jpg" crc="4235393652" ref="s60"/>
-    <file name="legacymain.jpg" crc="293059110" ref="s60"/>
+    <file name="a4.jpg" crc="3845527183" ref="s60"/>
+    <file name="a3.jpg" crc="193608948" ref="s60"/>
+    <file name="legacy.jpg" crc="4180361723" ref="s60"/>
     <file name="s60bg.jpg" crc="309699629" ref="s60"/>
     <file name="u3134-6.png" crc="3978906289" ref="s60"/>
     <file name="u3157-4.png" crc="465959936" ref="s60"/>
@@ -84,7 +84,7 @@
     <file name="exterior-version-crop-360 (1).jpg" crc="356125722" ref="s60"/>
     <file name="u3127-4.png" crc="479637074" ref="s60"/>
     <file name="u3126-4.png" crc="415108993" ref="s60"/>
-    <file name="legacy.jpg" crc="3954627868" ref="s60"/>
+    <file name="legacy2.jpg" crc="3954627868" ref="s60"/>
     <file name="exterior-version-crop-360.jpg" crc="132188445" ref="s60:s60mobile"/>
     <file name="monotone_arrow_next_left-u3118.png" crc="271113799" ref="s60"/>
     <file name="monotone_arrow_next_left-u3118-r.png" crc="271113799" ref="s60"/>
@@ -106,9 +106,9 @@
     <file name="monotone_arrow_next_right-u3179.png" crc="3825301338" ref="s60mobile"/>
     <file name="monotone_arrow_next_right-u3179-r.png" crc="3825301338" ref="s60mobile"/>
     <file name="xc60main.jpg" crc="4240412610" ref="xc60"/>
-    <file name="xc60vsaudi.jpg" crc="230296065" ref="xc60"/>
-    <file name="xc90vssubaru.jpg" crc="3988244669" ref="xc60"/>
-    <file name="xc60vsbmw.jpg" crc="3841920236" ref="xc60"/>
+    <file name="q5.jpg" crc="214837184" ref="xc60"/>
+    <file name="outback.jpg" crc="4268913928" ref="xc60"/>
+    <file name="bmwx5.jpg" crc="235048332" ref="xc60"/>
     <file name="xc60bg.jpg" crc="253453545" ref="xc60"/>
     <file name="u3356-6.png" crc="3996708028" ref="xc60"/>
     <file name="u3379-4.png" crc="4290243210" ref="xc60"/>
@@ -117,7 +117,7 @@
     <file name="xc603.jpg" crc="4176197373" ref="xc60"/>
     <file name="u3371-4.png" crc="4139017498" ref="xc60"/>
     <file name="u3370-4.png" crc="3883624634" ref="xc60"/>
-    <file name="outback.jpg" crc="295830606" ref="xc60"/>
+    <file name="outback2.jpg" crc="295830606" ref="xc60"/>
     <file name="xc602.jpg" crc="4257045363" ref="xc60"/>
     <file name="u3349-4.png" crc="432185062" ref="xc60"/>
     <file name="u3348-4.png" crc="3883624634" ref="xc60"/>
@@ -144,10 +144,10 @@
     <file name="monotone_arrow_next_right-u3401.png" crc="3825301338" ref="xc60mobile"/>
     <file name="monotone_arrow_next_right-u3401-r.png" crc="3825301338" ref="xc60mobile"/>
   </folder>
-  <file name="index.html" crc="3875633785" seo="true" mt="1482177026085" redirect="true"/>
+  <file name="index.html" crc="502653116" seo="true" mt="1482179659701" redirect="true"/>
   <file name="xc90mobile.html" crc="4268625195" seo="true" mt="1482177168958" redirect="true"/>
-  <file name="s60.html" crc="4290600897" seo="true" mt="1482177026329" redirect="true"/>
+  <file name="s60.html" crc="3963145126" seo="true" mt="1482179761266" redirect="true"/>
   <file name="s60mobile.html" crc="512552484" seo="true" mt="1482177026962" redirect="true"/>
-  <file name="xc60.html" crc="91172705" seo="true" mt="1482177026497" redirect="true"/>
+  <file name="xc60.html" crc="4245433030" seo="true" mt="1482179706950" redirect="true"/>
   <file name="xc60mobile.html" crc="512974363" seo="true" mt="1482177026997" redirect="true"/>
 </manifest>
