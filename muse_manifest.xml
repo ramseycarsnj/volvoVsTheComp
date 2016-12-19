@@ -1,19 +1,19 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1481912533307">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482177199553">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="s60.css" crc="4275050387" ref="s60"/>
-    <file name="xc90mobile.css" crc="3905270392" ref="xc90mobile"/>
-    <file name="index.css" crc="4007247489" ref="index"/>
-    <file name="s60mobile.css" crc="233549174" ref="s60mobile"/>
-    <file name="xc60mobile.css" crc="191257064" ref="xc60mobile"/>
-    <file name="xc60.css" crc="53046401" ref="xc60"/>
+    <file name="xc60mobile.css" crc="340408248" ref="xc60mobile"/>
+    <file name="index.css" crc="139867409" ref="index"/>
+    <file name="s60.css" crc="47671701" ref="s60"/>
+    <file name="xc90mobile.css" crc="251534811" ref="xc90mobile"/>
+    <file name="s60mobile.css" crc="353876998" ref="s60mobile"/>
+    <file name="xc60.css" crc="3909607559" ref="xc60"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
     <file name="museutils.js" crc="4148063285" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
     <file name="whatinput.js" crc="86476730" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
     <file name="museconfig.js" crc="4179431180" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:s60:xc60"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
     <file name="webpro.js" crc="3986320349" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
     <file name="musewpslideshow.js" crc="405464237" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
     <file name="jquery.museoverlay.js" crc="305414130" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
@@ -23,77 +23,131 @@
   </folder>
   <folder name="images">
     <file name="xc90headerimage.jpg" crc="4230006063" ref="index"/>
-    <file name="compcar1.jpg" crc="349493988" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
+    <file name="q7main.jpg" crc="4032103150" ref="index"/>
+    <file name="mdxmain.jpg" crc="3770537964" ref="index"/>
+    <file name="rangerovermain.jpg" crc="4033080403" ref="index"/>
+    <file name="qx60main.jpg" crc="110106916" ref="index"/>
     <file name="xc90bg.jpg" crc="4242480601" ref="index"/>
     <file name="u1002-6.png" crc="114257827" ref="index"/>
-    <file name="u1059-4.png" crc="420884715" ref="index"/>
-    <file name="u1076-4.png" crc="4244736422" ref="index"/>
+    <file name="u1059-4.png" crc="4194320703" ref="index"/>
+    <file name="u1076-4.png" crc="411875520" ref="index"/>
+    <file name="audiq7.jpg" crc="3856151803" ref="index"/>
+    <file name="xc902.jpg" crc="4289153653" ref="index"/>
     <file name="u1161-4.png" crc="3782045084" ref="index"/>
-    <file name="u1162-4.png" crc="4244736422" ref="index"/>
+    <file name="u1162-4.png" crc="411875520" ref="index"/>
+    <file name="acuramdx.jpg" crc="89465314" ref="index"/>
+    <file name="xc905.jpg" crc="3816531667" ref="index"/>
     <file name="u1242-4.png" crc="3971932258" ref="index"/>
-    <file name="u1243-4.png" crc="4244736422" ref="index"/>
+    <file name="u1243-4.png" crc="411875520" ref="index"/>
+    <file name="lr.jpg" crc="85511203" ref="index"/>
+    <file name="xc903.jpg" crc="290629086" ref="index"/>
     <file name="u1288-4.png" crc="4135421857" ref="index"/>
-    <file name="u1289-4.png" crc="4244736422" ref="index"/>
+    <file name="u1289-4.png" crc="411875520" ref="index"/>
+    <file name="infinitiqx60.jpg" crc="419498446" ref="index"/>
+    <file name="xc904.jpg" crc="113263622" ref="index"/>
     <file name="monotone_arrow_next_left-u251.png" crc="271113799" ref="index"/>
     <file name="monotone_arrow_next_left-u251-r.png" crc="271113799" ref="index"/>
     <file name="monotone_arrow_next_right-u355.png" crc="101764956" ref="index"/>
     <file name="monotone_arrow_next_right-u355-r.png" crc="101764956" ref="index"/>
     <file name="u2896-4.png" crc="212341266" ref="xc90mobile"/>
+    <file name="xc903-u1938-fr.jpg" crc="3946662600" ref="xc90mobile"/>
     <file name="u3022-4.png" crc="3962756053" ref="xc90mobile"/>
+    <file name="acuramdx-u3018-fr.jpg" crc="3831978596" ref="xc90mobile"/>
     <file name="u3007-4.png" crc="43191317" ref="xc90mobile"/>
+    <file name="audiq7-u3003-fr.jpg" crc="250627563" ref="xc90mobile"/>
     <file name="u2992-4.png" crc="461515911" ref="xc90mobile"/>
+    <file name="lr-u2988-fr.jpg" crc="4108566351" ref="xc90mobile"/>
     <file name="u2962-4.png" crc="428018762" ref="xc90mobile"/>
+    <file name="infinitiqx60-u2958-fr.jpg" crc="194286981" ref="xc90mobile"/>
+    <file name="xc90vscompetition.jpg" crc="58288402" ref="xc90mobile"/>
+    <file name="mobilemdx.jpg" crc="315582519" ref="xc90mobile"/>
+    <file name="mobileq7.jpg" crc="4131976790" ref="xc90mobile"/>
+    <file name="mobilerangerover.jpg" crc="4152449684" ref="xc90mobile"/>
+    <file name="mobileqx60.jpg" crc="3908344444" ref="xc90mobile"/>
     <file name="monotone_arrow_next_left-u1950.png" crc="4239881595" ref="xc90mobile"/>
     <file name="monotone_arrow_next_left-u1950-r.png" crc="4239881595" ref="xc90mobile"/>
     <file name="monotone_arrow_next_right-u1900.png" crc="3825301338" ref="xc90mobile"/>
     <file name="monotone_arrow_next_right-u1900-r.png" crc="3825301338" ref="xc90mobile"/>
     <file name="s60main.jpg" crc="3960026768" ref="s60"/>
+    <file name="a4main.jpg" crc="4075655905" ref="s60"/>
+    <file name="a3main.jpg" crc="4235393652" ref="s60"/>
+    <file name="legacymain.jpg" crc="293059110" ref="s60"/>
     <file name="s60bg.jpg" crc="309699629" ref="s60"/>
     <file name="u3134-6.png" crc="3978906289" ref="s60"/>
     <file name="u3157-4.png" crc="465959936" ref="s60"/>
     <file name="u3162-4.png" crc="415108993" ref="s60"/>
+    <file name="audia4.jpg" crc="52350337" ref="s60"/>
+    <file name="exterior-version-crop-360 (2).jpg" crc="111730132" ref="s60"/>
     <file name="u3149-4.png" crc="3920304673" ref="s60"/>
     <file name="u3148-4.png" crc="415108993" ref="s60"/>
+    <file name="audia3.jpg" crc="4154889557" ref="s60"/>
+    <file name="exterior-version-crop-360 (1).jpg" crc="356125722" ref="s60"/>
     <file name="u3127-4.png" crc="479637074" ref="s60"/>
     <file name="u3126-4.png" crc="415108993" ref="s60"/>
+    <file name="legacy.jpg" crc="3954627868" ref="s60"/>
+    <file name="exterior-version-crop-360.jpg" crc="132188445" ref="s60:s60mobile"/>
     <file name="monotone_arrow_next_left-u3118.png" crc="271113799" ref="s60"/>
     <file name="monotone_arrow_next_left-u3118-r.png" crc="271113799" ref="s60"/>
     <file name="monotone_arrow_next_right-u3121.png" crc="101764956" ref="s60"/>
     <file name="monotone_arrow_next_right-u3121-r.png" crc="101764956" ref="s60"/>
+    <file name="s60vscompetition.jpg" crc="3951729542" ref="s60mobile"/>
+    <file name="mobilea4.jpg" crc="349199908" ref="s60mobile"/>
+    <file name="mobilea3.jpg" crc="25154416" ref="s60mobile"/>
+    <file name="mobilelegacy.jpg" crc="3946801919" ref="s60mobile"/>
     <file name="u3218-4.png" crc="3860449565" ref="s60mobile"/>
     <file name="u3205-4.png" crc="527667022" ref="s60mobile"/>
+    <file name="audia4-u3204-fr.jpg" crc="4253595554" ref="s60mobile"/>
     <file name="u3209-4.png" crc="3805729164" ref="s60mobile"/>
-    <file name="u3198-4.png" crc="3934646952" ref="s60mobile"/>
+    <file name="audia3-u3213-fr.jpg" crc="4102926314" ref="s60mobile"/>
+    <file name="u3198-4.png" crc="79588514" ref="s60mobile"/>
+    <file name="legacy-u3197-fr.jpg" crc="311638648" ref="s60mobile"/>
     <file name="monotone_arrow_next_left-u3180.png" crc="4239881595" ref="s60mobile"/>
     <file name="monotone_arrow_next_left-u3180-r.png" crc="4239881595" ref="s60mobile"/>
     <file name="monotone_arrow_next_right-u3179.png" crc="3825301338" ref="s60mobile"/>
     <file name="monotone_arrow_next_right-u3179-r.png" crc="3825301338" ref="s60mobile"/>
     <file name="xc60main.jpg" crc="4240412610" ref="xc60"/>
+    <file name="xc60vsaudi.jpg" crc="230296065" ref="xc60"/>
+    <file name="xc90vssubaru.jpg" crc="3988244669" ref="xc60"/>
+    <file name="xc60vsbmw.jpg" crc="3841920236" ref="xc60"/>
     <file name="xc60bg.jpg" crc="253453545" ref="xc60"/>
     <file name="u3356-6.png" crc="3996708028" ref="xc60"/>
     <file name="u3379-4.png" crc="4290243210" ref="xc60"/>
     <file name="u3384-4.png" crc="3883624634" ref="xc60"/>
+    <file name="audiq5.jpg" crc="4110779903" ref="xc60"/>
+    <file name="xc603.jpg" crc="4176197373" ref="xc60"/>
     <file name="u3371-4.png" crc="4139017498" ref="xc60"/>
     <file name="u3370-4.png" crc="3883624634" ref="xc60"/>
+    <file name="outback.jpg" crc="295830606" ref="xc60"/>
+    <file name="xc602.jpg" crc="4257045363" ref="xc60"/>
     <file name="u3349-4.png" crc="432185062" ref="xc60"/>
     <file name="u3348-4.png" crc="3883624634" ref="xc60"/>
+    <file name="bmw.jpg" crc="4090219118" ref="xc60"/>
+    <file name="xc601.jpg" crc="524186572" ref="xc60"/>
     <file name="monotone_arrow_next_left-u3340.png" crc="271113799" ref="xc60"/>
     <file name="monotone_arrow_next_left-u3340-r.png" crc="271113799" ref="xc60"/>
     <file name="monotone_arrow_next_right-u3343.png" crc="101764956" ref="xc60"/>
     <file name="monotone_arrow_next_right-u3343-r.png" crc="101764956" ref="xc60"/>
+    <file name="xc60vscompetition.jpg" crc="171913554" ref="xc60mobile"/>
+    <file name="mobileaudiq5.jpg" crc="3793981363" ref="xc60mobile"/>
+    <file name="mobileoutback.jpg" crc="323419240" ref="xc60mobile"/>
+    <file name="mobilwx5.jpg" crc="90651064" ref="xc60mobile"/>
     <file name="u3440-4.png" crc="314021185" ref="xc60mobile"/>
+    <file name="xc6022.jpg" crc="3869252322" ref="xc60mobile"/>
     <file name="u3427-4.png" crc="4207595847" ref="xc60mobile"/>
+    <file name="audiq5-u3426-fr.jpg" crc="505070494" ref="xc60mobile"/>
     <file name="u3431-4.png" crc="4253610918" ref="xc60mobile"/>
+    <file name="outback-u3435-fr.jpg" crc="3913347384" ref="xc60mobile"/>
     <file name="u3420-4.png" crc="4064284670" ref="xc60mobile"/>
+    <file name="bmw-u3419-fr.jpg" crc="208385729" ref="xc60mobile"/>
     <file name="monotone_arrow_next_left-u3402.png" crc="4239881595" ref="xc60mobile"/>
     <file name="monotone_arrow_next_left-u3402-r.png" crc="4239881595" ref="xc60mobile"/>
     <file name="monotone_arrow_next_right-u3401.png" crc="3825301338" ref="xc60mobile"/>
     <file name="monotone_arrow_next_right-u3401-r.png" crc="3825301338" ref="xc60mobile"/>
   </folder>
-  <file name="index.html" crc="207295557" seo="true" mt="1481817682592" redirect="true"/>
-  <file name="xc90mobile.html" crc="503393636" seo="true" mt="1481827054671" redirect="true"/>
-  <file name="s60.html" crc="3980347755" seo="true" mt="1481910449441" redirect="true"/>
-  <file name="s60mobile.html" crc="188397047" seo="true" mt="1481827123935" redirect="true"/>
-  <file name="xc60.html" crc="3863896035" seo="true" mt="1481910181694" redirect="true"/>
-  <file name="xc60mobile.html" crc="3858310693" seo="true" mt="1481827079977" redirect="true"/>
+  <file name="index.html" crc="3875633785" seo="true" mt="1482177026085" redirect="true"/>
+  <file name="xc90mobile.html" crc="4268625195" seo="true" mt="1482177168958" redirect="true"/>
+  <file name="s60.html" crc="4290600897" seo="true" mt="1482177026329" redirect="true"/>
+  <file name="s60mobile.html" crc="512552484" seo="true" mt="1482177026962" redirect="true"/>
+  <file name="xc60.html" crc="91172705" seo="true" mt="1482177026497" redirect="true"/>
+  <file name="xc60mobile.html" crc="512974363" seo="true" mt="1482177026997" redirect="true"/>
 </manifest>
