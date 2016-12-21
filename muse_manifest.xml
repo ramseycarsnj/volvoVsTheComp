@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482345202218">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482345441267">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="xc60mobile.css" crc="230700458" ref="xc60mobile"/>
     <file name="index.css" crc="4136541165" ref="index"/>
-    <file name="s60.css" crc="359007920" ref="s60"/>
+    <file name="s60.css" crc="383244654" ref="s60"/>
     <file name="xc90mobile.css" crc="4282097819" ref="xc90mobile"/>
     <file name="s60mobile.css" crc="3938773381" ref="s60mobile"/>
-    <file name="xc60.css" crc="4255110991" ref="xc60"/>
+    <file name="xc60.css" crc="4050328189" ref="xc60"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
@@ -117,7 +117,7 @@
     <file name="u3371-4.png" crc="4139017498" ref="xc60"/>
     <file name="u3370-4.png" crc="3883624634" ref="xc60"/>
     <file name="outback2.jpg" crc="295830606" ref="xc60"/>
-    <file name="xc602.jpg" crc="3869252322" ref="xc60:xc60mobile"/>
+    <file name="xc602.jpg" crc="4257045363" ref="xc60:xc60mobile"/>
     <file name="u3349-4.png" crc="432185062" ref="xc60"/>
     <file name="u3348-4.png" crc="3883624634" ref="xc60"/>
     <file name="bmw.jpg" crc="4090219118" ref="xc60"/>
@@ -145,8 +145,8 @@
   </folder>
   <file name="index.html" crc="4238061176" seo="true" mt="1482345154900" redirect="true"/>
   <file name="xc90mobile.html" crc="311271945" seo="true" mt="1482335889200" redirect="true"/>
-  <file name="s60.html" crc="3812439312" seo="true" mt="1482331982061" redirect="true"/>
+  <file name="s60.html" crc="59517247" seo="true" mt="1482345430331" redirect="true"/>
   <file name="s60mobile.html" crc="515969996" seo="true" mt="1482335947839" redirect="true"/>
-  <file name="xc60.html" crc="4097605464" seo="true" mt="1482331995064" redirect="true"/>
+  <file name="xc60.html" crc="470886752" seo="true" mt="1482345422724" redirect="true"/>
   <file name="xc60mobile.html" crc="90472000" seo="true" mt="1482335928937" redirect="true"/>
 </manifest>
