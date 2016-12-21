@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482335960428">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482345202218">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="xc60mobile.css" crc="230700458" ref="xc60mobile"/>
-    <file name="index.css" crc="511331600" ref="index"/>
+    <file name="index.css" crc="4136541165" ref="index"/>
     <file name="s60.css" crc="359007920" ref="s60"/>
     <file name="xc90mobile.css" crc="4282097819" ref="xc90mobile"/>
     <file name="s60mobile.css" crc="3938773381" ref="s60mobile"/>
@@ -143,7 +143,7 @@
     <file name="monotone_arrow_next_right-u3401-r.png" crc="3825301338" ref="xc60mobile"/>
     <file name="news60.jpg" crc="4055353678" ref="s60"/>
   </folder>
-  <file name="index.html" crc="4090248258" seo="true" mt="1482335146341" redirect="true"/>
+  <file name="index.html" crc="4238061176" seo="true" mt="1482345154900" redirect="true"/>
   <file name="xc90mobile.html" crc="311271945" seo="true" mt="1482335889200" redirect="true"/>
   <file name="s60.html" crc="3812439312" seo="true" mt="1482331982061" redirect="true"/>
   <file name="s60mobile.html" crc="515969996" seo="true" mt="1482335947839" redirect="true"/>
