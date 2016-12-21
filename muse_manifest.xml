@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482180011259">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/ramseycarsnj/volvoVsTheComp/index.html" resolutions="1x" timestamp="1482332025549">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="xc60mobile.css" crc="340408248" ref="xc60mobile"/>
     <file name="index.css" crc="3777003259" ref="index"/>
-    <file name="s60.css" crc="4284874767" ref="s60"/>
+    <file name="s60.css" crc="359007920" ref="s60"/>
     <file name="xc90mobile.css" crc="251534811" ref="xc90mobile"/>
     <file name="s60mobile.css" crc="353876998" ref="s60mobile"/>
-    <file name="xc60.css" crc="207471209" ref="xc60"/>
+    <file name="xc60.css" crc="4255110991" ref="xc60"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:xc90mobile:s60:s60mobile:xc60:xc60mobile"/>
@@ -68,10 +68,9 @@
     <file name="monotone_arrow_next_left-u1950-r.png" crc="4239881595" ref="xc90mobile"/>
     <file name="monotone_arrow_next_right-u1900.png" crc="3825301338" ref="xc90mobile"/>
     <file name="monotone_arrow_next_right-u1900-r.png" crc="3825301338" ref="xc90mobile"/>
-    <file name="s60main.jpg" crc="3960026768" ref="s60"/>
-    <file name="a4.jpg" crc="3845527183" ref="s60"/>
-    <file name="a3.jpg" crc="193608948" ref="s60"/>
-    <file name="legacy.jpg" crc="4180361723" ref="s60"/>
+    <file name="a4.jpg" crc="3945674479" ref="s60"/>
+    <file name="a3.jpg" crc="4168151100" ref="s60"/>
+    <file name="legacy.jpg" crc="343837326" ref="s60"/>
     <file name="s60bg.jpg" crc="309699629" ref="s60"/>
     <file name="u3134-6.png" crc="3978906289" ref="s60"/>
     <file name="u3157-4.png" crc="465959936" ref="s60"/>
@@ -106,9 +105,9 @@
     <file name="monotone_arrow_next_right-u3179.png" crc="3825301338" ref="s60mobile"/>
     <file name="monotone_arrow_next_right-u3179-r.png" crc="3825301338" ref="s60mobile"/>
     <file name="xc60main.jpg" crc="4240412610" ref="xc60"/>
-    <file name="q5.jpg" crc="214837184" ref="xc60"/>
-    <file name="outback.jpg" crc="4268913928" ref="xc60"/>
-    <file name="bmwx5.jpg" crc="235048332" ref="xc60"/>
+    <file name="q5.jpg" crc="3958681744" ref="xc60"/>
+    <file name="outback.jpg" crc="364811131" ref="xc60"/>
+    <file name="bmwx5.jpg" crc="4000587967" ref="xc60"/>
     <file name="xc60bg.jpg" crc="253453545" ref="xc60"/>
     <file name="u3356-6.png" crc="3996708028" ref="xc60"/>
     <file name="u3379-4.png" crc="4290243210" ref="xc60"/>
@@ -143,11 +142,12 @@
     <file name="monotone_arrow_next_left-u3402-r.png" crc="4239881595" ref="xc60mobile"/>
     <file name="monotone_arrow_next_right-u3401.png" crc="3825301338" ref="xc60mobile"/>
     <file name="monotone_arrow_next_right-u3401-r.png" crc="3825301338" ref="xc60mobile"/>
+    <file name="news60.jpg" crc="4055353678" ref="s60"/>
   </folder>
-  <file name="index.html" crc="502653116" seo="true" mt="1482179659701" redirect="true"/>
+  <file name="index.html" crc="3800467416" seo="true" mt="1482331446314" redirect="true"/>
   <file name="xc90mobile.html" crc="4268625195" seo="true" mt="1482177168958" redirect="true"/>
-  <file name="s60.html" crc="4086061945" seo="true" mt="1482179998046" redirect="true"/>
+  <file name="s60.html" crc="3812439312" seo="true" mt="1482331982061" redirect="true"/>
   <file name="s60mobile.html" crc="512552484" seo="true" mt="1482177026962" redirect="true"/>
-  <file name="xc60.html" crc="4245433030" seo="true" mt="1482179706950" redirect="true"/>
+  <file name="xc60.html" crc="4097605464" seo="true" mt="1482331995064" redirect="true"/>
   <file name="xc60mobile.html" crc="512974363" seo="true" mt="1482177026997" redirect="true"/>
 </manifest>
